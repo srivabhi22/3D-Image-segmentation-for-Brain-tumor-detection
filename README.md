@@ -3,10 +3,12 @@
 
 ## Objective
 - To perform semantic segmentation on 3D MRI images of Brain for detcetion of tumor along with it's location in the brain.
-## Output
-<video width="640" height="480" controls>
-  <source src="4" type="https://github.com/srivabhi22/BrainSegmentor/blob/main/video/mp4">
-</video>
+
+![Tumor Visualization](https://github.com/srivabhi22/BrainSegmentor/blob/main/Brain%20tumor%20visualization.png)
+
+## Model Architecture
+
+![Unet3D](https://github.com/srivabhi22/BrainSegmentor/blob/main/u-net-architecture.png)
 
 ## Requirements
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15.0-brightgreen)
