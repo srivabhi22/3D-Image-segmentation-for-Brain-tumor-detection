@@ -5,8 +5,7 @@
 - To perform semantic segmentation on 3D MRI images of Brain for detcetion of tumor along with it's location in the brain.
 ## Output
 <video width="640" height="480" controls>
-  <source src="videos/brain_segmentation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="4" type="https://github.com/srivabhi22/BrainSegmentor/blob/main/video/mp4">
 </video>
 
 ## Requirements
