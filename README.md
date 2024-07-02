@@ -3,9 +3,12 @@
 
 ## Objective
 - To perform semantic segmentation on 3D MRI images of Brain for detcetion of tumor along with it's location in the brain.
+## Output
+<video width="640" height="480" controls>
+  <source src="videos/brain_segmentation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-
-    
 ## Requirements
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15.0-brightgreen)
 ![Keras](https://img.shields.io/badge/Keras-2.4.3-orange)
