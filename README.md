@@ -3,7 +3,7 @@
 
 ## Objective
 - To perform semantic segmentation on 3D MRI images of Brain for detcetion of tumor along with it's location in the brain.
-
+## Data Visualization
 ![Tumor Visualization](https://github.com/srivabhi22/BrainSegmentor/blob/main/Brain%20tumor%20visualization.png)
 
 ## Model Architecture
